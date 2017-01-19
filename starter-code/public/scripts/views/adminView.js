@@ -10,5 +10,6 @@
     }
   };
 
+
   Article.fetchAll(adminView.initAdminPage);
 })();
